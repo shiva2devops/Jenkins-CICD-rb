@@ -1,0 +1,5 @@
+deployment:
+ replicaCount: 1
+ imageVersion: k8
+service:
+ port: 80
